@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pukinidev/pukinidev/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pukinidev/pukinidev/b2531354773e1f38dde2cd6e006ce324ab6ae9e4/snake.svg" alt="Snake animation" />
 
 ###
