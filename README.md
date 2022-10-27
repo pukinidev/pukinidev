@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Valeria and I'm a System's and Computing Engineer Student from la Universidad de los Andes.</h2>
+<h2 align="left">Hi 👋! My name is Valeria and I'm a System's and Computing Engineer Undergraduate Student from la Universidad de los Andes.</h2>
 
 ###
 
