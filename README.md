@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a girl developer from Colombia who likes technology and learning every day.<br><br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I like to read, play video games and practice sports such as soccer or volleyball.</p>
+<p align="left">I'm a girl developer from Colombia who likes technology and learning every day.<br><br>- 📚 I'm currently learning Flutter & SwiftUI <br>- ⚡ In my free time I like to read, play video games and practice sports such as soccer or volleyball.</p>
 
 ###
 
